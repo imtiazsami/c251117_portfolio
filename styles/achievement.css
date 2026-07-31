@@ -1,0 +1,43 @@
+.achievements {
+    padding: 60px 20px;
+}
+
+.achievement {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.achievement-card {
+    width: 300px;
+    height: 220px;
+    background: #0B121A;
+    border: 1px solid #1b2b3a;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: 0.3s;
+}
+
+.year {
+    display: inline-block;
+    background: #0062FF;
+    color: white;
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+.achievement-card h3 {
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.achievement-card p {
+    color: #b0b0b0;
+    font-size: 16px;
+}
