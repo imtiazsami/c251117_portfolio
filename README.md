@@ -56,7 +56,7 @@ Alternatively, if you use *Visual Studio Code*:
 
 # Figma Prototype
 
-Figma Design Link:
+Figma Design Link: https://www.figma.com/proto/dCnrIQOTrBl9rgl0Syyxxu/Untitled?node-id=4-1316&p=f&t=4zvLCSmkWTkXqcmu-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A1041
 
  
 # Website Section :
